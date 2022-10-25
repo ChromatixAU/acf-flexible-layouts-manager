@@ -1,0 +1,9 @@
+{
+    "name": "chromatix/acf-flexible-layouts-manager",
+    "description": "ACF Flexible Layout Manager",
+    "homepage": "https://www.github.com/ChromatixAU/acf-flexible-layouts-manager",
+    "version": "1.1.6",
+    "type": "wordpress-plugin",
+    "minimum-stability": "dev",
+    "require": {}
+}
